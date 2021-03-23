@@ -13,7 +13,7 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^2.0.2",
-    "electron-builder": "^20.15.1"
+    "electron-builder": "^22.10.0"
   },
   "dependencies": {
     "@compositor/logo": "^1.4.0",
