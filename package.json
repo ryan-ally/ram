@@ -12,8 +12,8 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^2.0.2",
-    "electron-builder": "^20.15.1"
+    "electron": "^11.2.2",
+    "electron-builder": "^22.3.0"
   },
   "dependencies": {
     "@compositor/logo": "^1.4.0",
